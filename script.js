@@ -79,5 +79,45 @@
 // const y2 = x2++;
 // // x2 is 4n; y2 is 3n
 
+// ************************************************************
+
+// Data Types in JavaScript
+
+// JavaScript as a language provides the following eight basic data types:
+
+// Number
+// String
+// Boolean
+// Null
+// Undefined
+// BigInt
+// Symbol
+// Object
+// Here is a brief description of each of the eight basic JavaScript data types:
+
+// JavaScript Number
+// Number in JavaScript represents integer numbers or a floating-point number. A number type could also be +Infinity, -Infinity, and NaN (not a number).
+
+// JavaScript Strings
+// The string type is used to represent textual data.
+
+// JavaScript Boolean
+// The boolean data type represents logical entities. Boolean values represent truth values: true or false.
+
+// JavaScript Null
+// Null in JavaScript represents an unknown or empty value.
+
+// JavaScript Undefined
+// The undefined data type represents a variable that has not been assigned a value.
+
+// JavaScript BigInt
+// BigInt can represent integers with arbitrary precision, allowing you to store and operate on larger numbers beyond the integer limit.
+
+// JavaScript Symbol
+// If a value has the symbol data type, it is an immutable and unique primitive value.
+
+// JavaScript Object
+// The non-primitive, complex data type object allows you to store multiple data collections. Arrays are a type of object whose keys are integers. Arrays are a key building block for complex data structures.
+
 
 
